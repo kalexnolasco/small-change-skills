@@ -1,0 +1,10 @@
+{
+  "name": "small-change-skills",
+  "version": "1.0.0",
+  "description": "A fast lane for small code changes: minimal edit, targeted checks, quick review, finding-by-finding fixes and scoped commits.",
+  "author": { "name": "Alex Nolasco" },
+  "homepage": "https://github.com/kalexnolasco/small-change-skills",
+  "repository": "https://github.com/kalexnolasco/small-change-skills",
+  "license": "MIT",
+  "keywords": ["skills", "code-review", "git", "commit", "small-changes", "productivity"]
+}

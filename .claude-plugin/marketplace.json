@@ -1,0 +1,12 @@
+{
+  "name": "small-change-skills",
+  "owner": { "name": "Alex Nolasco" },
+  "plugins": [
+    {
+      "name": "small-change-skills",
+      "source": "./",
+      "description": "A fast lane for small code changes: minimal edit, targeted checks, quick review, finding-by-finding fixes and scoped commits.",
+      "version": "1.0.0"
+    }
+  ]
+}
